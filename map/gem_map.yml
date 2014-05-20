@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.ace"
+uis:
+  - name: ui-ace
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
